@@ -5,6 +5,7 @@
 
 .imgNav {
     width: 5%;
+    display: inline-block;
 }
 
 .quienesSomos i {
