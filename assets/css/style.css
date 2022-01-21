@@ -30,3 +30,15 @@
 .viajesFooter {
     background-color: #0dcaf0;
 }
+
+
+
+/* Aparece navbar solid */
+.bg-custom {
+    background-color: #0dcaf0;
+}
+/* Efecto de transicion */
+.navbar {
+    -webkit-transition: all .0s ease 0s;
+    transition: all .0s ease 0s;
+}
