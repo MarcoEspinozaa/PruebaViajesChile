@@ -4,8 +4,11 @@
 }
 
 .imgNav {
-    width: 5%;
-    display: inline-block;
+    height: 2rem;
+}
+
+.carousel-caption h1 {
+    bottom: 100px;
 }
 
 .quienesSomos i {
