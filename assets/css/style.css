@@ -11,8 +11,20 @@
     bottom: 100px;
 }
 
+#quienesSomos h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+#quienesSomos p {
+    font-family: 'Roboto', sans-serif;
+}
+
 .quienesSomos i {
     background-color: #0dcaf0;
+}
+
+#destacados h3 {
+    font-family: 'Lato', sans-serif;
 }
 
 .fontBack {
@@ -21,6 +33,14 @@
 
 .bgCard {
     background-color: #0dcaf0;
+}
+
+#contacto h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
 }
 
 .formMensaje {
